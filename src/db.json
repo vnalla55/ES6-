@@ -1,0 +1,100 @@
+{
+    "contacts": [{
+        "id": 1,
+        "first_name": "Angy",
+        "last_name": "Cristofano",
+        "gender": "Female",
+        "email": "acristofano0@stanford.edu",
+        "address_city": "91202 Rowland Place",
+        "address_street": "Los Angeles",
+        "address_state": "California",
+        "phone_number": "323-308-0063",
+        "dob": "12/13/2017",
+        "image": "http://dummyimage.com/204x227.jpg/5fa2dd/ffffff"
+    }, {
+        "id": 2,
+        "first_name": "Earvin",
+        "last_name": "Spadari",
+        "gender": "Male",
+        "email": "espadari1@pbs.org",
+        "address_city": "76 Sutteridge Crossing",
+        "address_street": "Virginia Beach",
+        "address_state": "Virginia",
+        "phone_number": "757-872-1015",
+        "dob": "11/13/2017",
+        "image": "http://dummyimage.com/135x136.jpg/dddddd/000000"
+    }, {
+        "id": 3,
+        "first_name": "Rolph",
+        "last_name": "Cheverton",
+        "gender": "Male",
+        "email": "rcheverton2@multiply.com",
+        "address_city": "73 Valley Edge Hill",
+        "address_street": "Arvada",
+        "address_state": "Colorado",
+        "phone_number": "303-287-4409",
+        "dob": "11/15/2017",
+        "image": "http://dummyimage.com/187x140.jpg/cc0000/ffffff"
+    }, {
+        "id": 4,
+        "first_name": "Darby",
+        "last_name": "Camerello",
+        "gender": "Female",
+        "email": "dcamerello3@gnu.org",
+        "address_city": "60 Rusk Circle",
+        "address_street": "Brooklyn",
+        "address_state": "New York",
+        "phone_number": "718-710-7811",
+        "dob": "11/26/2017",
+        "image": "http://dummyimage.com/218x212.jpg/cc0000/ffffff"
+    }, {
+        "id": 5,
+        "first_name": "Tremain",
+        "last_name": "Mundie",
+        "gender": "Male",
+        "email": "tmundie4@dot.gov",
+        "address_city": "92745 Sycamore Trail",
+        "address_street": "Orlando",
+        "address_state": "Florida",
+        "phone_number": "407-452-7639",
+        "dob": "10/30/2017",
+        "image": "http://dummyimage.com/111x145.jpg/cc0000/ffffff"
+    }, {
+        "id": 6,
+        "first_name": "Delmar",
+        "last_name": "Dooman",
+        "gender": "Male",
+        "email": "ddooman5@gov.uk",
+        "address_city": "34 Almo Point",
+        "address_street": "Richmond",
+        "address_state": "Virginia",
+        "phone_number": "804-670-7858",
+        "dob": "11/16/2017",
+        "image": "http://dummyimage.com/191x246.jpg/dddddd/000000"
+    }, {
+        "id": 7,
+        "first_name": "Danyette",
+        "last_name": "Giacovelli",
+        "gender": "Female",
+        "email": "dgiacovelli6@apache.org",
+        "address_city": "3478 Valley Edge Trail",
+        "address_street": "Spokane",
+        "address_state": "Washington",
+        "phone_number": "509-594-1356",
+        "dob": "11/20/2017",
+        "image": "http://dummyimage.com/118x238.jpg/dddddd/000000"
+    }, {
+        "id": 8,
+        "first_name": "Jeffy",
+        "last_name": "Busch",
+        "gender": "Male",
+        "email": "jbusch7@wikispaces.com",
+        "address_city": "658 Meadow Ridge Drive",
+        "address_street": "North Little Rock",
+        "address_state": "Arkansas",
+        "phone_number": "501-534-3328",
+        "dob": "11/4/2017",
+        "image": "http://dummyimage.com/170x236.jpg/5fa2dd/ffffff"
+    }]
+
+}
